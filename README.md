@@ -14,6 +14,9 @@
     <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
     </span>
+    <span>
+    <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="40" height="40"/>
+    </span>
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
