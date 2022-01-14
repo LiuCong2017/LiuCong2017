@@ -11,7 +11,7 @@
 </div>
 
 #### Language I usually used:
-<span>
+<!-- <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
     </span>
     <span>
@@ -25,7 +25,7 @@
     </span>
     <span>
     <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="40" height="40"/>
-    </span>
+    </span> -->
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
