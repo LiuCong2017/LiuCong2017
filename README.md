@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @LiuCong2017
 - 👀 I’m interested in Data analysis, Game dev, Big data, Blockchain technology, TensorFlow, Deep Learning(GAN&CV/CNN/RNN)......
-- 🌱 I’m currently learning Java, JavaScript, TypeScript, C/C++, Python, PHP, Go, Rust, C# ...
+- 🌱 I’m currently learning Java, JavaScript, TypeScript, C/C++, Python, PHP, Go, Rust, C# ...  
+
+### Github
+
+<div align="center">
+  <a href="https://github.com/LiuCong2017">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiuCong2017&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuCong2017&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 #### Language I usually used:
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
