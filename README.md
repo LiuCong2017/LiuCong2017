@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiuCong2017
-- 👀 I’m interested in <b>Data analysis</b>, Game dev, Big data, Blockchain technology, TensorFlow, Deep Learning(GAN&CV/CNN/RNN)......
-- 🌱 I’m currently learning Java, JavaScript, TypeScript, C/C++, Python, PHP, Go, Rust, C# ...  
+- 👀 I’m interested in <b>Data analysis, Game dev, Big data, Blockchain technology, TensorFlow, Deep Learning(GAN&CV/CNN/RNN)......</b>
+- 🌱 I’m currently learning <b>Java, JavaScript, TypeScript, C/C++, Python, PHP, Go, Rust, C# ...</b>  
 
 ### Github
 
