@@ -27,6 +27,7 @@
     <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="40" height="40">
     </span>
     
 <!--- 
