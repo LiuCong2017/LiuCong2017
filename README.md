@@ -25,7 +25,10 @@
     </span>
     <span>
     <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="40" height="40"/>
+    <img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"/>
+    <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
     </span>
+    
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
