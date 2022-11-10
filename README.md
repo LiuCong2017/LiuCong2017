@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiuCong2017
-- 👀 I’m interested in <b>Data analysis, Game dev, DevOps, Big data, Blockchain technology, TensorFlow/PyTorch/keras, Deep Learning(GAN&CV/CNN/RNN/LSTM/NLP)......</b>
-- 🌱 I’m currently learning <b>Java, JavaScript, TypeScript, C/C++, Python, PHP, Go, Rust, C#, Erlang, Scala, Haskell, Lua, Shell, Prolog, Julia ...</b>  
+- 👀 I’m interested in <b>Data analysis, Game dev, DevOps, Big data, Blockchain technology, TensorFlow/PyTorch/Keras, Deep Learning(GAN&CV/CNN/RNN/LSTM/NLP)......</b>
+- 🌱 I’m currently learning <b>Java, JavaScript, TypeScript, C/C++, Verilog HDL, Python, PHP, Go, Rust, C#, Erlang, Scala, Haskell, Lua, Shell, Prolog, Julia ...</b>  
 - 👨‍💻 Fileld of study: <b>Data Mining, Computer Vision, Cyber Security, Cryptography, Robotics</b>
 - ☎️ Contact me: 2917653358@qq.com
 
