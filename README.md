@@ -6,11 +6,11 @@
 
 ### Github
 
-<div align="Left">
+<!-- <div align="Left">
   <a href="https://github.com/LiuCong2017">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiuCong2017&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuCong2017&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
 #### Language I usually used:
 <span>
