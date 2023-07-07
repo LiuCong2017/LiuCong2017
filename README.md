@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiuCong2017
 - 👀 I’m interested in <b>Web3.0, Metaverse, Data analysis, Game dev, DevOps, Big data, Blockchain/DeFi, TensorFlow/PyTorch/Keras, Deep Learning(GAN&CV/CNN/RNN/LSTM/NLP)......</b>
 - 🌱 I’m currently learning <b>Java, JavaScript, TypeScript, C/C++, Verilog HDL, Python, PHP, Go, Rust, C#, Matlab, Bash, Erlang, Scala, Haskell, Lua, Prolog, Julia, Assembly, SQL, Swift ...</b>  
-- 👨‍💻 Fileld of study: <b>Data Mining, Computer Vision, Cyber Security, Cryptography, Robotics, SLAM，Localization，Large-scale Optimization, Sensor Fusion Calibration</b>
+- 👨‍💻 Fileld of study: <b>Data Mining, Computer Vision, Cyber Security, Cryptography, Robotics, SLAM， Localization， Large-scale Optimization, Sensor Fusion Calibration</b>
 
 
 ### Github
@@ -13,17 +13,17 @@
 </div>
 
 #### Language I usually used:
-<span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+    <span>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
     </span>
     <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
     </span>
     <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </span>
     <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
     </span>
     <span>
       <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40"/>
@@ -31,7 +31,7 @@
       <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40"/>
     </span>
     <span>
-      <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" width="45" height="45/>
+      <img src="https://github.com/LiuCong2017/lc-my-example/blob/master/example-frontend/icons/rust.svg" width="40" height="40/>
     </span>
     
 <!--- 
