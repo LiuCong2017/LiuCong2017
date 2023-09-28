@@ -6,12 +6,6 @@
 
 ### Github
 
-<!-- <div align="Left">
-  <a href="https://github.com/LiuCong2017">
-  <img height="180em" src="http://github-readme-stats-liucong2017.vercel.app/api?username=LiuCong2017&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="http://github-readme-stats-liucong2017.vercel.app/api/top-langs/?username=LiuCong2017&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-
 #### Language I usually used:
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
