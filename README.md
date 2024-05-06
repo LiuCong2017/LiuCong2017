@@ -23,7 +23,7 @@
       <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="40" height="40"/>
       <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40"/>
       <img src="https://github.com/LiuCong2017/lc-my-example/blob/master/example-frontend/icons/rust.svg" width="40" height="40/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40 />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40/>
     </span>
 
     
