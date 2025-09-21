@@ -4,9 +4,6 @@
 - 👨‍💻 Fileld of study: <b>Data Mining, Computer Vision, Cyber Security, Cryptography, Robotics, SLAM, Localization, Large-scale Optimization, Sensor Fusion Calibration</b>
 - 📫 **Contact Me** 📧 kavin.c.liu@gmail.com
 
-
-### Github
-
 #### I am committed to continuous learning and growth in these programming languages:
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
