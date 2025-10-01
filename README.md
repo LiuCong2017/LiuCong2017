@@ -2,6 +2,7 @@
 - 👀 I’m interested in <b>Web3.0, Metaverse, Data analysis, Game dev, DevOps, Big data, Blockchain/DeFi, TensorFlow/PyTorch/Keras, Deep Learning(Transformer/GAN&CV/CNN/RNN/LSTM/NLP)......</b>
 - 🌱 I’m currently learning <b>Java, JavaScript, TypeScript, C/C++, Verilog HDL, Python, PHP, Go, Rust, C#, Matlab, Bash, Erlang, Scala, Haskell, Lua, Prolog, Julia, Assembly, SQL, Swift ...</b>  
 - 👨‍💻 Fileld of study: <b>Data Mining, Computer Vision, Cyber Security, Cryptography, Robotics, SLAM, Localization, Large-scale Optimization, Sensor Fusion Calibration</b>
+- ⭐️ Languages I speak: 中文 | English | にほんご
 - 📫 **Contact Me** 📧 kavin.c.liu@gmail.com
 
 #### I am committed to continuous learning and growth in these programming languages:
