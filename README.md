@@ -5,7 +5,7 @@
 - ⭐️ Languages I speak: 中文 | English | にほんご
 - 📫 **Contact Me** 📧 kavin.c.liu@gmail.com
 
-#### I am committed to continuous learning and growth in these programming languages:
+#### I am committed to continuous learning and growth in these programming languages（持续学习、不断进步，并适应技术的飞速变化）:
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
     </span>
