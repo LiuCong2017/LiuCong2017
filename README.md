@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiuCong2017
-- 👨‍💻 I’m interested in and filed of study <b>Software Development, Web3.0, Data Analysis, DevOps, Cyber Security......</b>
+- 👨‍💻 I’m interested in: <b>Software Development, Web3.0, Data Analysis, DevOps, Cyber Security......</b>
 - 🌱 I’m currently **learning** <b>Java, JavaScript, TypeScript, C/C++, Python, Go, Rust, C#, Bash, SQL, Swift ...</b>  
 - ⭐️ **Languages** I speak: 中文 | English
 - 🫡 **Motto**: A scar is a badge of honor!
