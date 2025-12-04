@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiuCong2017
 - 👨‍💻 I’m interested in: <b>Software Development, Web3.0, Data Analysis, DevOps, Cyber Security......</b>
 - 🌱 I’m currently **learning** <b>Java, JavaScript, TypeScript, C/C++, Python, Go, Rust, C#, Bash, SQL, Swift ...</b>  
-- ⭐️ **Languages** I speak: 中/粵/華語 | English
+- ⭐️ **Languages** I speak: Mandarin, Cantonese, English, Japanese
 - 🫡 **Motto**: A scar is a badge of honor!
 - 📫 **Collaboration & Contact Me** 📧 kavin.c.liu@gmail.com
 
